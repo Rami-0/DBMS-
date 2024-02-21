@@ -1,0 +1,54 @@
+﻿@model IEnumerable<DBMS.Models.Production>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Производство</h1>
+
+<p>
+    <a asp-action="Create">Добавить</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("Количество")
+            </th>
+            <th>
+                @Html.DisplayName("Дата")
+            </th>
+            <th>
+                @Html.DisplayName("Сотрудник")
+            </th>
+            <th>
+                @Html.DisplayName("Продукт")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CountProduction)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeNavigation.Fullname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductNavigation.Name)
+                </td>
+                <td>
+
+
+                    <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

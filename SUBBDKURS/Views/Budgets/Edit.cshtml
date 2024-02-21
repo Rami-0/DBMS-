@@ -1,0 +1,47 @@
+﻿@model DBMS.Models.Budgets
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Редактировать</h1>
+
+<h4>Бюджет</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Budgetamount" class="control-label">Бюджетная сумма</label>
+                <input asp-for="Budgetamount" class="form-control" />
+                <span asp-validation-for="Budgetamount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SalePercentage" class="control-label">Процент</label>
+                <input asp-for="SalePercentage" class="form-control" />
+                <span asp-validation-for="SalePercentage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bonus" class="control-label">Бонус</label>
+                <input asp-for="Bonus" class="form-control" />
+                <span asp-validation-for="Bonus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Сохранить" class="btn btn-outline-success" />
+            </div>
+            <div class="form-group">
+                <a asp-action="Index" class="btn btn-outline-primary">Назад</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

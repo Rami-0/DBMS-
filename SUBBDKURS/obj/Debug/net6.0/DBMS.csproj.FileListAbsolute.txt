@@ -1,0 +1,290 @@
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\appsettings.Development.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\appsettings.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\DBMS.staticwebassets.runtime.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\DBMS.exe
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\DBMS.deps.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\DBMS.runtimeconfig.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\DBMS.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\DBMS.pdb
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\EntityFramework.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\EntityFramework.Functions.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\WebMatrix.Data.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.CodeDom.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\DBMS.csproj.AssemblyReference.cache
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\DBMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\DBMS.AssemblyInfoInputs.cache
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\DBMS.AssemblyInfo.cs
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\DBMS.csproj.CoreCompileInputs.cache
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\DBMS.MvcApplicationPartsAssemblyInfo.cache
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\DBMS.RazorAssemblyInfo.cache
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\DBMS.RazorAssemblyInfo.cs
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\staticwebassets\msbuild.DBMS.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\staticwebassets\msbuild.build.DBMS.props
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DBMS.props
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DBMS.props
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\staticwebassets.build.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\staticwebassets.development.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\scopedcss\bundle\DBMS.styles.css
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\DBMS.csproj.CopyComplete
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\DBMS.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\refint\DBMS.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\DBMS.pdb
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\DBMS.genruntimeconfig.cache
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS\SUBBDKURS\obj\Debug\net6.0\ref\DBMS.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\appsettings.Development.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\appsettings.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\DBMS.staticwebassets.runtime.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\DBMS.exe
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\DBMS.deps.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\DBMS.runtimeconfig.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\DBMS.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\DBMS.pdb
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\EntityFramework.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\EntityFramework.Functions.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\WebMatrix.Data.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.CodeDom.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\DBMS.csproj.AssemblyReference.cache
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\DBMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\DBMS.AssemblyInfoInputs.cache
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\DBMS.AssemblyInfo.cs
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\DBMS.csproj.CoreCompileInputs.cache
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\DBMS.MvcApplicationPartsAssemblyInfo.cache
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\DBMS.RazorAssemblyInfo.cache
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\DBMS.RazorAssemblyInfo.cs
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\staticwebassets\msbuild.DBMS.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\staticwebassets\msbuild.build.DBMS.props
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DBMS.props
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DBMS.props
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\staticwebassets.build.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\staticwebassets.development.json
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\scopedcss\bundle\DBMS.styles.css
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\DBMS.csproj.CopyComplete
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\DBMS.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\refint\DBMS.dll
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\DBMS.pdb
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\DBMS.genruntimeconfig.cache
+F:\Junior Year 3#\Spring semester 2024\DATABASESPROJECTS\DBMS - Copy\SUBBDKURS\obj\Debug\net6.0\ref\DBMS.dll

@@ -1,0 +1,73 @@
+﻿@model DBMS.Models.PurchaseOfrawmaterials
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Добавить</h1>
+
+<h4>Закупка</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="RawMaterials" class="control-label">Сырье</label>
+                <select asp-for="RawMaterials" class="form-control" asp-items="ViewBag.RawMaterials"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="CountPur" class="control-label">Колво</label>
+                <input asp-for="CountPur" class="form-control" />
+                <span asp-validation-for="CountPur" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sum" class="control-label">Сумма</label>
+                <input asp-for="Sum" class="form-control" />
+                <span asp-validation-for="Sum" class="text-danger"></span>
+            </div>
+            <style>
+                .Error {
+                    background-color: #f44336;
+                    color: white;
+                    border-radius: 5px;
+                    font-size: 18px;
+                    font-weight: bold;
+                    position: fixed;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    z-index: 9999; /* Чтобы сообщение было поверх других элементов */
+                }
+            </style>
+
+            <div class="Error">
+                <p>@ViewBag.Massage</p>
+            </div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label">Дата</label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee" class="control-label">Сотрудники</label>
+                <select asp-for="Employee" class="form-control" asp-items="ViewBag.Employee"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Добавить" class="btn btn-outline-success" />
+            </div>
+            <div class="form-group">
+                <a asp-action="Index" class="btn btn-outline-primary">Назад</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

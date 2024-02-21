@@ -1,0 +1,54 @@
+﻿@model DBMS.Models.PurchaseOfrawmaterials
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Удалить</h1>
+
+<h3>Вы уверены, что хотите удалить это?</h3>
+<div>
+    <h4>Закупка</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayName("Колво")
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CountPur)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayName("Сумма")
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Sum)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayName("Дата")
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayName("Сотрудник")
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EmployeeNavigation.Fullname)
+        </dd class>
+        <dt class = "col-sm-2">
+            @Html.DisplayName("Сырье")
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.RawMaterialsNavigation.Name)
+        </dd class>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+         <input type="submit" value="Удалить" class="btn btn-outline-danger" />
+
+        <div class="form-group">
+            <a asp-action="Index" class="btn btn-outline-primary">Назад</a>
+        </div>
+    </form>
+</div>

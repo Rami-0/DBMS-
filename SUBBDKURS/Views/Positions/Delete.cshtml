@@ -1,0 +1,30 @@
+﻿@model DBMS.Models.Positions
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Удалить</h1>
+
+<h3> Вы уверены, что хотите удалить это?</h3>
+<div>
+    <h4>Должность</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayName("Должность")
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Position)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Удалить" class="btn btn-outline-danger" />
+
+        <div class="form-group">
+            <a asp-action="Index" class="btn btn-outline-primary">Назад</a>
+        </div>
+    </form>
+</div>
